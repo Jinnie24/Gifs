@@ -1,0 +1,16 @@
+body {
+    background: url("../images/dust.png");
+    background-color: #4c9c88;
+    height: auto;
+    width: auto;
+}
+.jumbotron {
+    opacity: 0.7;
+    color: green;
+}
+#gif-form {
+    color: white;
+}
+#gif-holder {
+    color: white;
+}
